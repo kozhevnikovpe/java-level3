@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Homework {
-
+//lesson5
         public static final int CARS_COUNT = 4;
         public static void main(String[] args) {
             System.out.println("ВАЖНОЕ ОБЪЯВЛЕНИЕ >>> Подготовка!!!");
